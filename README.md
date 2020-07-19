@@ -6,3 +6,4 @@ task description and report for the result are in the folder ./doc
 2. Stereo image pairs can be selected in window "Preset"
 3. "Viwe images" button shows left and right images
 4. "Match" button displays the disparity map of the image and euclidean transform between left and right image
+![image](https://github.com/lbw0502/ComputerVision_challenge/blob/master/doc/gui_example.png)
